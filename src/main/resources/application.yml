@@ -6,5 +6,5 @@ Spring:
   application:
     name: cursos-app
   profiles:
-    active: dev
+    active: prod
 
